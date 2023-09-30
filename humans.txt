@@ -1,0 +1,27 @@
+/* humans.txt - https://humanstxt.org/ */
+
+/* TEAM */
+  Eponym: Tripp Lilley
+  URL: https://aerarium.group/
+  Email: tripplilley+humans.txt@gmail.com
+  Twitter: @tripplilley
+  Location: Las Piñas, Metro Manila, Philippines
+
+
+/* THANKS */
+  Existence: Mom & Dad
+
+  Continued Existence: Niza
+
+  Assistance: Ashley
+
+  Conscience: Jen
+
+  Constance: Irene
+
+
+/* SITE */
+  Last update: 2023-09-30
+  Standards: XHTML, CSS3,
+  Components: (n/a)
+  Software: Emacs, git, GitHub Pages
